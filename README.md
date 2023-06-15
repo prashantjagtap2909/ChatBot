@@ -2,5 +2,6 @@
 
 #### Some screenshots
 
-![image](https://github.com/prashantjagtap2909/ChatBot/assets/93985255/4f36201e-e89e-4e4d-b772-b272b582d1b5)
-![image](https://github.com/prashantjagtap2909/ChatBot/assets/93985255/c116aad7-a57b-4f7c-ab7b-bb26008e237b)
+
+![image](https://github.com/prashantjagtap2909/ChatBot/assets/93985255/6d960460-72aa-4ecc-a16c-817c1c540f5d)
+![image](https://github.com/prashantjagtap2909/ChatBot/assets/93985255/029916c4-ebb2-41db-aca1-4e73a30aae71)
